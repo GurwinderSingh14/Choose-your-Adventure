@@ -1,11 +1,11 @@
-# Black Widow: Infiltration in the Red Zone
+# Captain America: Shadows Over Berlin
 
-Natasha Romanoff slips into The Red Zone — a secret base in Siberia rumored to be the origin of the rift. It’s crawling with mercenaries and corrupted ex-Red Room agents.
+Steve Rogers enters a Berlin locked in a time loop — WWII-era soldiers and modern tech clash in the streets. Hydra has returned… or never left.
 
-Two infiltration options present themselves:
-- Hack into the command center via underground tunnels
-- Pose as a defector and enter through the front gate
+Two leads emerge:
+- An underground lab rumored to house a prototype time anchor
+- A captured SHIELD agent sending distress signals from a tower
 
-**What does Black Widow do?**
-- Sneak through the tunnels
-- Go undercover through the front
+**What does Captain America do?**
+- Investigate the underground lab
+- Rescue the agent in the tower
